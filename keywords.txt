@@ -1,0 +1,51 @@
+#######################################
+# Syntax Coloring DFRobot_MAX30102
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_MAX30102	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+              
+begin	KEYWORD2
+sensorConfiguration	KEYWORD2
+getRed	KEYWORD2
+getIR	KEYWORD2
+readTemperatureC	KEYWORD2
+readTemperatureF	KEYWORD2
+heartrateAndOxygenSaturation	KEYWORD2
+              
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SAMPLEAVG_1 LITERAL1
+SAMPLEAVG_2 LITERAL1
+SAMPLEAVG_4 LITERAL1
+SAMPLEAVG_8 LITERAL1
+SAMPLEAVG_16 LITERAL1
+SAMPLEAVG_32 LITERAL1
+MODE_REDONLY LITERAL1
+MODE_RED_IR  LITERAL1
+MODE_MULTILED LITERAL1
+PULSEWIDTH_69 LITERAL1
+PULSEWIDTH_118 LITERAL1
+PULSEWIDTH_215 LITERAL1
+PULSEWIDTH_411 LITERAL1
+SAMPLERATE_50 LITERAL1
+SAMPLERATE_100 LITERAL1
+SAMPLERATE_200 LITERAL1
+SAMPLERATE_400 LITERAL1
+SAMPLERATE_800 LITERAL1
+SAMPLERATE_1000 LITERAL1
+SAMPLERATE_1600 LITERAL1
+SAMPLERATE_3200 LITERAL1
+ADCRANGE_2048 LITERAL1
+ADCRANGE_4096 LITERAL1
+ADCRANGE_8192 LITERAL1
+ADCRANGE_16384 LITERAL1
